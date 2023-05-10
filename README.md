@@ -1,1 +1,2 @@
-# PythonApplication2
+# PythonApplication
+from googletrans import Translator
